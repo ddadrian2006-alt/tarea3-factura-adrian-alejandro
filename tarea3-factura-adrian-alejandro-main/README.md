@@ -69,3 +69,4 @@ Captura del depurador: `capturas/reto3.png`
   **Justificación:**  
   1. *Falta de portabilidad:* El código en ensamblador está acoplado a una arquitectura de procesador específica (x86, ARM), imposibilitando su ejecución universal sin reescribir todo el código.  
   2. *Coste de desarrollo ineficiente:* El esfuerzo y tiempo de desarrollo requeridos son desproporcionadamente altos para una tarea sencilla de gestión de facturas, donde lenguajes de alto nivel como Java o C# ya ofrecen un rendimiento óptimo.
+  
